@@ -1,0 +1,3 @@
+# YouTube-Video-Downloader-
+This is a basic YouTube Video Downloader which downloads the video for the link provided and stores it into the local folder. This uses a built in package known as pyTube which fetches the link and decodes it into the folder specified. 
+Here i have implemented Youtube downloader using Built-in library which is Pytube and this fetches the video from Youtube and downloads and saves it into the root directory.
